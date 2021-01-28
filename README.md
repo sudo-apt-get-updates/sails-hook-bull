@@ -6,11 +6,11 @@ Sails.js hook to use [bull] package for handling distributed jobs and messages.
 
 Install it via npm:
 ```shell
-npm install sails-hook-bull --save
+npm install sudo-apt-get-updates/sails-hook-bull --save
 ```
 or
 ```shell
-yarn add sails-hook-bull
+yarn add sudo-apt-get-updates/sails-hook-bull
 ```
 **Requirement:** Redis version greater than or equal to 2.8.18 is required.
 
